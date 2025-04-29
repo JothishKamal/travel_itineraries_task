@@ -94,3 +94,7 @@ To initialize the database with seed data, send a POST request to `/seed-data` e
 - `GET /itineraries/{itinerary_id}`: Get a specific itinerary by ID
 - `POST /itineraries`: Create a new itinerary
 
+## Entity Relationship Diagram
+![Entity Relationship Diagram](https://github.com/user-attachments/assets/5c8b69df-57a1-4720-9302-85bea1568fe1)
+
+
