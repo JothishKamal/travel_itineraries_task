@@ -1,0 +1,662 @@
+{
+  "locations": [
+    {
+      "name": "Phuket",
+      "region": "Southern Thailand",
+      "description": "Thailand's largest island known for beautiful beaches, clear waters, and vibrant nightlife."
+    },
+    {
+      "name": "Krabi",
+      "region": "Southern Thailand",
+      "description": "Known for its stunning limestone karsts, beautiful beaches, and relaxed atmosphere."
+    },
+    {
+      "name": "Patong",
+      "region": "Phuket",
+      "description": "Phuket's most famous beach resort town with a vibrant nightlife."
+    },
+    {
+      "name": "Karon",
+      "region": "Phuket",
+      "description": "A more relaxed beach area in Phuket with beautiful white sand."
+    },
+    {
+      "name": "Ao Nang",
+      "region": "Krabi",
+      "description": "The main beach resort in Krabi with access to offshore islands."
+    },
+    {
+      "name": "Railay",
+      "region": "Krabi",
+      "description": "A stunning peninsula accessible only by boat, famous for its rock climbing."
+    },
+    {
+      "name": "Phi Phi Islands",
+      "region": "Krabi",
+      "description": "A group of islands with stunning beaches and clear waters, popular for day trips."
+    },
+    {
+      "name": "Koh Samui",
+      "region": "Southern Thailand",
+      "description": "Thailand's second-largest island known for its palm-fringed beaches, coconut groves and dense, mountainous rainforest."
+    },
+    {
+      "name": "Chaweng",
+      "region": "Koh Samui",
+      "description": "The busiest and most commercial beach on Koh Samui with powder-soft white sand."
+    },
+    {
+      "name": "Koh Phangan",
+      "region": "Southern Thailand",
+      "description": "An island in the Gulf of Thailand known for its monthly Full Moon Party and pristine beaches."
+    },
+    {
+      "name": "Koh Tao",
+      "region": "Southern Thailand",
+      "description": "A small island known as a diving paradise with coral reefs and abundant marine life."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Patong Beach Hotel",
+      "location": "Patong",
+      "star_rating": 4.0,
+      "price_per_night": 120.0,
+      "description": "A comfortable hotel located near Patong Beach with modern amenities."
+    },
+    {
+      "name": "Karon View Resort",
+      "location": "Karon",
+      "star_rating": 4.5,
+      "price_per_night": 150.0,
+      "description": "A luxurious resort with stunning views of Karon Beach."
+    },
+    {
+      "name": "Ao Nang Cliff Resort",
+      "location": "Ao Nang",
+      "star_rating": 4.0,
+      "price_per_night": 130.0,
+      "description": "A resort built on the cliffside with panoramic views of Ao Nang Bay."
+    },
+    {
+      "name": "Railay Princess Resort",
+      "location": "Railay",
+      "star_rating": 4.5,
+      "price_per_night": 180.0,
+      "description": "A luxurious resort nestled between limestone cliffs on Railay Beach."
+    },
+    {
+      "name": "Phi Phi Island Village",
+      "location": "Phi Phi Islands",
+      "star_rating": 5.0,
+      "price_per_night": 250.0,
+      "description": "An exclusive resort on Phi Phi Island with private beach access."
+    },
+    {
+      "name": "Chaweng Regent Beach Resort",
+      "location": "Chaweng",
+      "star_rating": 4.5,
+      "price_per_night": 180.0,
+      "description": "Luxury beachfront resort on Chaweng Beach with lush tropical gardens."
+    },
+    {
+      "name": "Samui Paradise Resort",
+      "location": "Koh Samui",
+      "star_rating": 4.0,
+      "price_per_night": 145.0,
+      "description": "A peaceful retreat with traditional Thai-style villas and a private beach."
+    },
+    {
+      "name": "Haad Rin Beach Resort",
+      "location": "Koh Phangan",
+      "star_rating": 3.5,
+      "price_per_night": 95.0,
+      "description": "Beachfront resort on the famous Full Moon Party beach with comfortable bungalows."
+    },
+    {
+      "name": "Koh Tao Coral Grand Resort",
+      "location": "Koh Tao",
+      "star_rating": 4.0,
+      "price_per_night": 120.0,
+      "description": "Beachfront resort with direct access to prime snorkeling and diving spots."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Patong Nightlife Tour",
+      "location": "Patong",
+      "duration_hours": 4.0,
+      "price": 40.0,
+      "description": "Experience the vibrant nightlife of Patong Beach with a guided tour."
+    },
+    {
+      "name": "Phi Phi Island Boat Tour",
+      "location": "Phi Phi Islands",
+      "duration_hours": 8.0,
+      "price": 80.0,
+      "description": "A full-day boat tour around the stunning Phi Phi Islands."
+    },
+    {
+      "name": "Four Islands Tour",
+      "location": "Ao Nang",
+      "duration_hours": 6.0,
+      "price": 60.0,
+      "description": "Visit four of Krabi's most beautiful islands in one day."
+    },
+    {
+      "name": "Rock Climbing at Railay",
+      "location": "Railay",
+      "duration_hours": 4.0,
+      "price": 50.0,
+      "description": "Try rock climbing on Railay's famous limestone cliffs with experienced guides."
+    },
+    {
+      "name": "Phuket Old Town Tour",
+      "location": "Phuket",
+      "duration_hours": 3.0,
+      "price": 30.0,
+      "description": "Explore the cultural heritage of Phuket Old Town."
+    },
+    {
+      "name": "Elephant Sanctuary Visit",
+      "location": "Phuket",
+      "duration_hours": 5.0,
+      "price": 70.0,
+      "description": "Visit an ethical elephant sanctuary and interact with rescued elephants."
+    },
+    {
+      "name": "Snorkeling at Coral Island",
+      "location": "Phuket",
+      "duration_hours": 6.0,
+      "price": 55.0,
+      "description": "Enjoy snorkeling at the vibrant coral reefs of Coral Island."
+    },
+    {
+      "name": "Emerald Pool and Hot Springs",
+      "location": "Krabi",
+      "duration_hours": 7.0,
+      "price": 65.0,
+      "description": "Visit Krabi's natural Emerald Pool and relax in hot springs."
+    },
+    {
+      "name": "Full Moon Party",
+      "location": "Koh Phangan",
+      "duration_hours": 8.0,
+      "price": 30.0,
+      "description": "Experience the world-famous full moon beach party with fire shows and music."
+    },
+    {
+      "name": "Samui Island Tour",
+      "location": "Koh Samui",
+      "duration_hours": 6.0,
+      "price": 45.0,
+      "description": "Explore Koh Samui's highlights including the Big Buddha, waterfalls, and local markets."
+    },
+    {
+      "name": "Angthong Marine Park Tour",
+      "location": "Koh Samui",
+      "duration_hours": 8.0,
+      "price": 85.0,
+      "description": "Day trip to the stunning Angthong National Marine Park with snorkeling and kayaking."
+    },
+    {
+      "name": "Scuba Diving at Koh Tao",
+      "location": "Koh Tao",
+      "duration_hours": 5.0,
+      "price": 95.0,
+      "description": "Discover the underwater world at one of the world's best diving locations."
+    },
+    {
+      "name": "Thai Cooking Class",
+      "location": "Koh Samui",
+      "duration_hours": 4.0,
+      "price": 55.0,
+      "description": "Learn to prepare authentic Thai dishes with local ingredients and techniques."
+    },
+    {
+      "name": "Kayaking at Ang Thong",
+      "location": "Koh Samui",
+      "duration_hours": 5.0,
+      "price": 60.0,
+      "description": "Kayak through the stunning limestone formations of Ang Thong Marine Park."
+    }
+  ],
+  "transfers": [
+    {
+      "from_location": "Phuket",
+      "to_location": "Krabi",
+      "mode": "Van",
+      "duration_hours": 3.0,
+      "price": 25.0
+    },
+    {
+      "from_location": "Phuket",
+      "to_location": "Phi Phi Islands",
+      "mode": "Speedboat",
+      "duration_hours": 1.5,
+      "price": 40.0
+    },
+    {
+      "from_location": "Patong",
+      "to_location": "Karon",
+      "mode": "Taxi",
+      "duration_hours": 0.5,
+      "price": 10.0
+    },
+    {
+      "from_location": "Ao Nang",
+      "to_location": "Railay",
+      "mode": "Longtail Boat",
+      "duration_hours": 0.3,
+      "price": 8.0
+    },
+    {
+      "from_location": "Krabi",
+      "to_location": "Phi Phi Islands",
+      "mode": "Ferry",
+      "duration_hours": 1.5,
+      "price": 30.0
+    },
+    {
+      "from_location": "Phuket",
+      "to_location": "Koh Samui",
+      "mode": "Ferry and Bus",
+      "duration_hours": 6.0,
+      "price": 65.0
+    },
+    {
+      "from_location": "Koh Samui",
+      "to_location": "Koh Phangan",
+      "mode": "Ferry",
+      "duration_hours": 0.5,
+      "price": 15.0
+    },
+    {
+      "from_location": "Koh Phangan",
+      "to_location": "Koh Tao",
+      "mode": "Speedboat",
+      "duration_hours": 1.0,
+      "price": 25.0
+    },
+    {
+      "from_location": "Koh Samui",
+      "to_location": "Koh Tao",
+      "mode": "High-speed Ferry",
+      "duration_hours": 1.5,
+      "price": 35.0
+    },
+    {
+      "from_location": "Krabi",
+      "to_location": "Koh Samui",
+      "mode": "Bus and Ferry",
+      "duration_hours": 5.0,
+      "price": 55.0
+    }
+  ],
+  "itineraries": [
+    {
+      "name": "Quick Phuket Escape",
+      "duration_nights": 2,
+      "total_price": 350.0,
+      "is_recommended": true,
+      "description": "A short getaway to experience the highlights of Phuket.",
+      "accommodations": [
+        {
+          "hotel": "Patong Beach Hotel",
+          "nights": 2
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Patong Nightlife Tour",
+          "day": 1,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Snorkeling at Coral Island",
+          "day": 2,
+          "time_slot": "morning"
+        }
+      ],
+      "transfers": []
+    },
+    {
+      "name": "Phuket & Krabi Adventure",
+      "duration_nights": 4,
+      "total_price": 800.0,
+      "is_recommended": true,
+      "description": "Experience the best of both Phuket and Krabi in this action-packed itinerary.",
+      "accommodations": [
+        {
+          "hotel": "Patong Beach Hotel",
+          "nights": 2
+        },
+        {
+          "hotel": "Ao Nang Cliff Resort",
+          "nights": 2
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Patong Nightlife Tour",
+          "day": 1,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Elephant Sanctuary Visit",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Four Islands Tour",
+          "day": 3,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Emerald Pool and Hot Springs",
+          "day": 4,
+          "time_slot": "morning"
+        }
+      ],
+      "transfers": [
+        {
+          "transfer": ["Phuket", "Krabi"],
+          "day": 3
+        }
+      ]
+    },
+    {
+      "name": "Southern Thailand Explorer",
+      "duration_nights": 6,
+      "total_price": 1200.0,
+      "is_recommended": true,
+      "description": "Comprehensive exploration of Southern Thailand's most beautiful destinations.",
+      "accommodations": [
+        {
+          "hotel": "Patong Beach Hotel",
+          "nights": 2
+        },
+        {
+          "hotel": "Phi Phi Island Village",
+          "nights": 2
+        },
+        {
+          "hotel": "Railay Princess Resort",
+          "nights": 2
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Phuket Old Town Tour",
+          "day": 1,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Patong Nightlife Tour",
+          "day": 1,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Snorkeling at Coral Island",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Phi Phi Island Boat Tour",
+          "day": 3,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Rock Climbing at Railay",
+          "day": 5,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Emerald Pool and Hot Springs",
+          "day": 6,
+          "time_slot": "morning"
+        }
+      ],
+      "transfers": [
+        {
+          "transfer": ["Phuket", "Phi Phi Islands"],
+          "day": 3
+        },
+        {
+          "transfer": ["Krabi", "Phi Phi Islands"],
+          "day": 5
+        }
+      ]
+    },
+    {
+      "name": "Ultimate Thailand Beach Vacation",
+      "duration_nights": 8,
+      "total_price": 1800.0,
+      "is_recommended": true,
+      "description": "The most comprehensive tour of Thailand's southern beaches and islands.",
+      "accommodations": [
+        {
+          "hotel": "Patong Beach Hotel",
+          "nights": 2
+        },
+        {
+          "hotel": "Karon View Resort",
+          "nights": 2
+        },
+        {
+          "hotel": "Phi Phi Island Village",
+          "nights": 2
+        },
+        {
+          "hotel": "Railay Princess Resort",
+          "nights": 2
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Patong Nightlife Tour",
+          "day": 1,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Elephant Sanctuary Visit",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Snorkeling at Coral Island",
+          "day": 3,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Phuket Old Town Tour",
+          "day": 4,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Phi Phi Island Boat Tour",
+          "day": 5,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Phi Phi Island Boat Tour",
+          "day": 6,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Rock Climbing at Railay",
+          "day": 7,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Emerald Pool and Hot Springs",
+          "day": 8,
+          "time_slot": "morning"
+        }
+      ],
+      "transfers": [
+        {
+          "transfer": ["Patong", "Karon"],
+          "day": 3
+        },
+        {
+          "transfer": ["Phuket", "Phi Phi Islands"],
+          "day": 5
+        },
+        {
+          "transfer": ["Krabi", "Phi Phi Islands"],
+          "day": 7
+        }
+      ]
+    },
+    {
+      "name": "Thai Gulf Island Hopper",
+      "duration_nights": 7,
+      "total_price": 1350.0,
+      "is_recommended": true,
+      "description": "Experience the best of Thailand's Gulf islands with this perfect week-long adventure.",
+      "accommodations": [
+        {
+          "hotel": "Chaweng Regent Beach Resort",
+          "nights": 3
+        },
+        {
+          "hotel": "Haad Rin Beach Resort",
+          "nights": 2
+        },
+        {
+          "hotel": "Koh Tao Coral Grand Resort",
+          "nights": 2
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Samui Island Tour",
+          "day": 1,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Thai Cooking Class",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Angthong Marine Park Tour",
+          "day": 3,
+          "time_slot": "full-day"
+        },
+        {
+          "activity": "Full Moon Party",
+          "day": 5,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Scuba Diving at Koh Tao",
+          "day": 6,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Kayaking at Ang Thong",
+          "day": 7,
+          "time_slot": "afternoon"
+        }
+      ],
+      "transfers": [
+        {
+          "transfer": ["Koh Samui", "Koh Phangan"],
+          "day": 4
+        },
+        {
+          "transfer": ["Koh Phangan", "Koh Tao"],
+          "day": 6
+        }
+      ]
+    },
+    {
+      "name": "Samui Getaway",
+      "duration_nights": 3,
+      "total_price": 650.0,
+      "is_recommended": true,
+      "description": "A short but sweet escape to the beautiful island of Koh Samui.",
+      "accommodations": [
+        {
+          "hotel": "Samui Paradise Resort",
+          "nights": 3
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Samui Island Tour",
+          "day": 1,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Thai Cooking Class",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Angthong Marine Park Tour",
+          "day": 3,
+          "time_slot": "full-day"
+        }
+      ],
+      "transfers": []
+    },
+    {
+      "name": "Southern Thai Islands Explorer",
+      "duration_nights": 5,
+      "total_price": 950.0,
+      "is_recommended": true,
+      "description": "The perfect 5-day island hopping adventure in Southern Thailand.",
+      "accommodations": [
+        {
+          "hotel": "Patong Beach Hotel",
+          "nights": 2
+        },
+        {
+          "hotel": "Phi Phi Island Village",
+          "nights": 3
+        }
+      ],
+      "activities": [
+        {
+          "activity": "Elephant Sanctuary Visit",
+          "day": 1,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Patong Nightlife Tour",
+          "day": 1,
+          "time_slot": "evening"
+        },
+        {
+          "activity": "Phuket Old Town Tour",
+          "day": 2,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Phi Phi Island Boat Tour",
+          "day": 3,
+          "time_slot": "afternoon"
+        },
+        {
+          "activity": "Rock Climbing at Railay",
+          "day": 4,
+          "time_slot": "morning"
+        },
+        {
+          "activity": "Snorkeling at Coral Island",
+          "day": 5,
+          "time_slot": "morning"
+        }
+      ],
+      "transfers": [
+        {
+          "transfer": ["Phuket", "Phi Phi Islands"],
+          "day": 3
+        }
+      ]
+    }
+  ]
+}
